@@ -1,0 +1,41 @@
+{
+  "id": "caves-and-hexes",
+  "title": "Caves & Hexes",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "ose",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Pacote com compêndios exclusivos do sistema Caves &amp; Hexes",
+  "authors": [
+    {
+      "name": "Marcos Gonçalves",
+      "url": "github.com/coppolaop",
+      "flags": {}
+    }
+  ],
+  "url": "https://cavesandhexes.com",
+  "packs": [
+    {
+      "name": "caves-and-hexes",
+      "label": "Caves & Hexes",
+      "path": "packs/caves-and-hexes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "ose",
+      "flags": {}
+    }
+  ]
+}
