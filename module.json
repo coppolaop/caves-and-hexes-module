@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
   "relationships": {
     "systems": [
@@ -15,7 +15,7 @@
       }
     ]
   },
-  "description": "Pacote com compêndios exclusivos do sistema Caves &amp; Hexes",
+  "description": "Pacote com compêndios exclusivos do sistema de RPG Caves &amp; Hexes, desenvolvido para ser executado no FoundryVTT através do sistema Old School Essentials (OSE).\nSistema originalmente desenvolvido por:\n- Carlos “Malvadeza” Silva;\n- Francisco Siqueira;\n- João Burlamaqui;\n- Rafael Balbi;\n- Rafael Massuia.",
   "authors": [
     {
       "name": "Marcos Gonçalves",
@@ -30,12 +30,11 @@
       "label": "Caves & Hexes",
       "path": "packs/caves-and-hexes",
       "type": "Item",
+      "system": "ose",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "ose",
-      "flags": {}
+      }
     }
   ]
 }
