@@ -7,3 +7,5 @@ Sistema originalmente desenvolvido por:
 - Rafael Massuia.
 
 Para mais informações sobre o sistema Caves & Hexes e acesso ao SRD gratúito do sistema, acesse: https://www.cavesandhexes.com
+
+Assim como o sistema Caves & Hexes, este módulo para FoundryVTT se encontra na [licença OGL](/LICENSE)
