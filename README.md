@@ -29,7 +29,6 @@ Versão atual do sistema contém os seguintes pacote de itens:
 - - - 3° Ciclo
 - - - 4° Ciclo
 - - - 5° Ciclo
-- - - 6° Ciclo
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 Assim como o sistema Caves & Hexes, este módulo para FoundryVTT se encontra na [licença OGL](/LICENSE)
