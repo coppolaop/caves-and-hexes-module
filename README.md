@@ -15,6 +15,13 @@ Versão atual do sistema contém os seguintes pacote de itens:
 - - Equipamento de exploração
 - - Ervas
 - - Munição
+- - Kits de equipamento
+- Itens mágicos
+- - Anéis
+- - Bastões / Cajados / Varinhas
+- - Itens diversos
+- - Pergaminhos e mapas
+- - Poções
 - Magias
 - - Arcanas
 - - - 1° Ciclo
